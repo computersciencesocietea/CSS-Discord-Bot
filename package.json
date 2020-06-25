@@ -1,0 +1,17 @@
+{
+  "name": "ust-bot",
+  "version": "0.0.1",
+  "description": "ust-l discord bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "moment": "^2.27.0",
+    "random-puppy": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "belch",
+  "license": "ISC"
+}
